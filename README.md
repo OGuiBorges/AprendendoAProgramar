@@ -1,2 +1,4 @@
-# AprendendoAProgramar
- Repositório com códigos criados em aulas e estudos relacionados a programação
+# Aprendendo A Programar
+ Repositório com códigos criados em aulas e estudos relacionados à programação.
+
+ Primeiro passo para uma carreira de sucesso.
